@@ -1,0 +1,4 @@
+AuthName "Protection de la page"
+AuthType Basic
+AuthUserFile "/Applications/MAMP/htdocs/FormPHP/FormulaireRDVProteger/connexion/cnx.php"
+Require valid-user
