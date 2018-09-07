@@ -10,7 +10,7 @@
 	<form method="post" action="traitement.php">
 		<fieldset>
 			<legend>Client</legend>
-			<p><input type="text" name="nom" placeholder="Nom" autofocus /></p>v
+			<p><input type="text" name="nom" placeholder="Nom" autofocus /></p>
 			<p><input type="text" name="prenom" placeholder="Prénom" autofocus /></p>
 			<p><input type="tel" name="tel" placeholder="Tél." autofocus /></p>
 		</fieldset>
